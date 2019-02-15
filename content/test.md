@@ -1,5 +1,5 @@
 ---
-title: "Test page for Browser Sync"
+title: "Test page for Browser Sync" 
 ---
  
 This is a content test!
