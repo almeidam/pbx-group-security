@@ -1,7 +1,7 @@
 ---
 title: "Test page for Browser Sync"
 ---
- 
+
 This is a content test!
 
 testing publishing
@@ -15,7 +15,7 @@ updated dynamically on GitHub
 - test 123
 - another idea
 
-test content
+test content 
 
 
 here is some blurb<!--- this is an inline comment test--->end of the blurb
